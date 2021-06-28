@@ -1,0 +1,16 @@
+
+PlaystoreRdd = sc.textFile("file:/home/cloudera/Proj3/googleplaystore_edited3.csv")
+playstorerddsplit = PlaystoreRdd.map(lambda x : x.split(","))
+GenreKey = playstorerddsplit.map(lambda x : (x[1],1))
+GenreKeyCount = GenreKey.reduceByKey(lambda x,y : x+y)
+for i in GenreKeyCount.sortBy(lambda (x,y) : -y).take(10):print i
+for i in GenreCount.sortBy(lambda (x,y) : y).take(10):print i
+
+PlaystoreRdd = sc.textFile("file:/home/cloudera/Proj4/googleplaystore_edited4.csv")
+playstorerddsplit = PlaystoreRdd.map(lambda x : x.split(","))
+RatingKey = playstorerddsplit.map(lambda x : (x[0],(x[1],1)))
+RatingKeyReduce = RatingKey.reduceByKey(lambda (x1,y1),(x2,y2) : ((float)(x1)+(float)(x2),(int)(y1)+(int)(y2)))
+RatingsAverage = RatingKeyReduce.mapValues(lambda (x,y) : (float)(x) / y)
+for i in RatingsAverage.sortBy(lambda (x,y) : -y).take(10):print i
+for i in RatingsAverage.sortBy(lambda (x,y) : y).take(10):print i
+

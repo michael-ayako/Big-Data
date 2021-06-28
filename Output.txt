@@ -1,0 +1,140 @@
+Output_1
+
+Free	Positive Reviews = 14997, Negative Reviews 5379, Not reviewed or Nuetral = 15711
+Paid	Positive Reviews = 295, Negative Reviews 60, Not reviewed or Nuetral = 418
+
+Output_2
+
+Action	Positive Reviews = 1213, Negative Reviews 634, Not reviewed or Nuetral = 706
+Action;Action & Adventure	Positive Reviews = 90, Negative Reviews 9, Not reviewed or Nuetral = 18
+Adventure	Positive Reviews = 40, Negative Reviews 14, Not reviewed or Nuetral = 26
+Arcade	Positive Reviews = 422, Negative Reviews 388, Not reviewed or Nuetral = 585
+Arcade;Action & Adventure	Positive Reviews = 0, Negative Reviews 0, Not reviewed or Nuetral = 40
+Art & Design	Positive Reviews = 153, Negative Reviews 25, Not reviewed or Nuetral = 76
+Art & Design;Creativity	Positive Reviews = 29, Negative Reviews 8, Not reviewed or Nuetral = 2
+Art & Design;Pretend Play	Positive Reviews = 26, Negative Reviews 14, Not reviewed or Nuetral = 14
+Auto & Vehicles	Positive Reviews = 181, Negative Reviews 13, Not reviewed or Nuetral = 299
+Beauty	Positive Reviews = 121, Negative Reviews 21, Not reviewed or Nuetral = 238
+Board	Positive Reviews = 66, Negative Reviews 9, Not reviewed or Nuetral = 159
+Board;Brain Games	Positive Reviews = 33, Negative Reviews 26, Not reviewed or Nuetral = 164
+Books & Reference	Positive Reviews = 299, Negative Reviews 37, Not reviewed or Nuetral = 266
+Business	Positive Reviews = 464, Negative Reviews 106, Not reviewed or Nuetral = 447
+Card;Action & Adventure	Positive Reviews = 0, Negative Reviews 0, Not reviewed or Nuetral = 40
+Casual	Positive Reviews = 396, Negative Reviews 319, Not reviewed or Nuetral = 454
+Casual;Brain Games	Positive Reviews = 158, Negative Reviews 33, Not reviewed or Nuetral = 66
+Casual;Creativity	Positive Reviews = 62, Negative Reviews 37, Not reviewed or Nuetral = 9
+Casual;Education	Positive Reviews = 0, Negative Reviews 0, Not reviewed or Nuetral = 40
+Casual;Pretend Play	Positive Reviews = 67, Negative Reviews 14, Not reviewed or Nuetral = 69
+Comics	Positive Reviews = 33, Negative Reviews 1, Not reviewed or Nuetral = 44
+Communication	Positive Reviews = 436, Negative Reviews 144, Not reviewed or Nuetral = 568
+Dating	Positive Reviews = 465, Negative Reviews 142, Not reviewed or Nuetral = 752
+Education	Positive Reviews = 291, Negative Reviews 40, Not reviewed or Nuetral = 679
+Education;Education	Positive Reviews = 44, Negative Reviews 17, Not reviewed or Nuetral = 228
+Education;Pretend Play	Positive Reviews = 23, Negative Reviews 10, Not reviewed or Nuetral = 5
+Educational;Education	Positive Reviews = 102, Negative Reviews 30, Not reviewed or Nuetral = 53
+Educational;Pretend Play	Positive Reviews = 75, Negative Reviews 31, Not reviewed or Nuetral = 120
+Entertainment	Positive Reviews = 590, Negative Reviews 306, Not reviewed or Nuetral = 695
+Entertainment;Creativity	Positive Reviews = 0, Negative Reviews 0, Not reviewed or Nuetral = 40
+Entertainment;Music & Video	Positive Reviews = 49, Negative Reviews 10, Not reviewed or Nuetral = 17
+Events	Positive Reviews = 38, Negative Reviews 0, Not reviewed or Nuetral = 80
+Finance	Positive Reviews = 540, Negative Reviews 222, Not reviewed or Nuetral = 417
+Food & Drink	Positive Reviews = 261, Negative Reviews 61, Not reviewed or Nuetral = 139
+Health & Fitness	Positive Reviews = 1015, Negative Reviews 167, Not reviewed or Nuetral = 643
+House & Home	Positive Reviews = 109, Negative Reviews 44, Not reviewed or Nuetral = 198
+Libraries & Demo	Positive Reviews = 153, Negative Reviews 34, Not reviewed or Nuetral = 141
+Lifestyle	Positive Reviews = 473, Negative Reviews 125, Not reviewed or Nuetral = 475
+Maps & Navigation	Positive Reviews = 76, Negative Reviews 16, Not reviewed or Nuetral = 160
+Medical	Positive Reviews = 879, Negative Reviews 197, Not reviewed or Nuetral = 610
+News & Magazines	Positive Reviews = 167, Negative Reviews 52, Not reviewed or Nuetral = 228
+Parenting	Positive Reviews = 113, Negative Reviews 14, Not reviewed or Nuetral = 92
+Parenting;Music & Video	Positive Reviews = 25, Negative Reviews 4, Not reviewed or Nuetral = 80
+Personalization	Positive Reviews = 473, Negative Reviews 82, Not reviewed or Nuetral = 404
+Photography	Positive Reviews = 476, Negative Reviews 167, Not reviewed or Nuetral = 845
+Productivity	Positive Reviews = 789, Negative Reviews 208, N
+ot reviewed or Nuetral = 932
+Puzzle	Positive Reviews = 429, Negative Reviews 256, Not reviewed or Nuetral = 263
+Puzzle;Action & Adventure	Positive Reviews = 29, Negative Reviews 25, Not reviewed or Nuetral = 20
+Puzzle;Brain Games	Positive Reviews = 0, Negative Reviews 0, Not reviewed or Nuetral = 40
+Racing	Positive Reviews = 87, Negative Reviews 43, Not reviewed or Nuetral = 221
+Racing;Action & Adventure	Positive Reviews = 50, Negative Reviews 25, Not reviewed or Nuetral = 114
+Role Playing	Positive Reviews = 164, Negative Reviews 70, Not reviewed or Nuetral = 59
+Role Playing;Action & Adventure	Positive Reviews = 42, Negative Reviews 30, Not reviewed or Nuetral = 6
+Shopping	Positive Reviews = 323, Negative Reviews 106, Not reviewed or Nuetral = 352
+Simulation	Positive Reviews = 74, Negative Reviews 20, Not reviewed or Nuetral = 263
+Simulation;Action & Adventure	Positive Reviews = 31, Negative Reviews 16, Not reviewed or Nuetral = 73
+Simulation;Education	Positive Reviews = 24, Negative Reviews 13, Not reviewed or Nuetral = 1
+Simulation;Pretend Play	Positive Reviews = 11, Negative Reviews 3, Not reviewed or Nuetral = 26
+Social	Positive Reviews = 221, Negative Reviews 140, Not reviewed or Nuetral = 124
+Sports	Positive Reviews = 545, Negative Reviews 282, Not reviewed or Nuetral = 757
+Sports;Action & Adventure	Positive Reviews = 16, Negative Reviews 12, Not reviewed or Nuetral = 5
+Strategy	Positive Reviews = 53, Negative Reviews 39, Not reviewed or Nuetral = 240
+Tools	Positive Reviews = 637, Negative Reviews 204, Not reviewed or Nuetral = 699
+Travel & Local	Positive Reviews = 803, Negative Reviews 246, Not reviewed or Nuetral = 450
+Video Players & Editors	Positive Reviews = 110, Negative Reviews 54, Not reviewed or Nuetral = 32
+Weather	Positive Reviews = 128, Negative Reviews 24, Not reviewed or Nuetral = 21
+
+
+Output_3
+
+Top 10
+
+.. 
+(u'Tools', 804)                                                                 
+(u'Entertainment', 602)
+(u'Education', 526)
+(u'Medical', 452)
+(u'Business', 449)
+(u'Productivity', 391)
+(u'Personalization', 376)
+(u'Communication', 368)
+(u'Lifestyle', 367)
+(u'Action', 365)
+
+
+
+Bottom 10
+
+(u'Novel and Stories', 1)
+(u' Buy', 1)
+(u' Kik & Instagram', 1)
+(u' Photos', 1)
+(u'Theme', 1)
+(u' Marvel', 1)
+(u' Pics', 1)
+(u' Video"', 1)
+(u'Lifestyle;Pretend Play', 1)
+(u'Pics & Videos', 1)
+
+
+Output 4
+
+Top 10
+
+(u'EDUCATION', 4.3608974358974359)
+(u'ART_AND_DESIGN', 4.1569230769230758)
+(u'ENTERTAINMENT', 4.1261744966442944)
+(u'GAME', 4.1102272727272728)
+(u'COMICS', 4.0166666666666666)
+(u'PHOTOGRAPHY', 3.9668656716417914)
+(u'SHOPPING', 3.8992307692307699)
+(u'WEATHER', 3.8817073170731717)
+(u'SOCIAL', 3.7362711864406788)
+(u'HEALTH_AND_FITNESS', 3.7252199413489739)
+
+Bottom 10
+
+.. 
+(u'BUSINESS', 2.714782608695653)
+(u'EVENTS', 3.1187500000000004)
+(u'MEDICAL', 3.1667386609071269)
+(u'LIBRARIES_AND_DEMO', 3.1952941176470584)
+(u'DATING', 3.3089743589743579)
+(u'BOOKS_AND_REFERENCE', 3.3489177489177488)
+(u'LIFESTYLE', 3.3659685863874351)
+(u'BEAUTY', 3.3905660377358484)
+(u'NEWS_AND_MAGAZINES', 3.4021201413427562)
+(u'PERSONALIZATION', 3.4732142857142856)
+
+
+
+
